@@ -14,3 +14,13 @@
 .screen-header__icons span {
     margin-left: 25px;
 }
+
+.screen-header__notice {
+    background-color: tomato;
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    position: absolute;
+    right: 20px;
+    top: 40px;
+}
