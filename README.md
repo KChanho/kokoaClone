@@ -1,3 +1,3 @@
-#Kokoa Clone 2021 by KChanho
+# Kokoa Clone 2021 by KChanho
 
 my first challenge!
